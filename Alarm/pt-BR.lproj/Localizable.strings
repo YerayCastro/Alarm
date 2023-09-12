@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  Alarm
+
+  Created by Yery Castro on 30/6/23.
+  
+*/
+
+"alarm" = "alarme";
+"on" = "🔔";
+"off" = "🔕";
+"create" = "crio";
+"Add Alarm" = "Adicionar alarme";
+"Alarm List" = "Lista de Alarmes";
+"About" = "Sobre";
+"No Alarms" = "Sem alarmes";
+"to Anton's page" = "para a página de Anton";
+"The UI for this nice Alarm app was largely inspired by the amazing work of Anton Leogky." = "A interface do usuário para este belo aplicativo de alarme foi amplamente inspirada no incrível trabalho de Anton Leogky.";
+"you did it! here you can manage your alarm, change time and other things" = "você conseguiu! aqui você pode gerenciar seu alarme, mudar a hora e outras coisas";
+"hello there!" = "olá!";
+"let's add an alarm" = "vamos adicionar um alarme";
+"start" = "começar";
+"end" = "fim";
+"Have a great day!" = "Tenha um ótimo dia!";
+"Activity completed." = "Atividade concluída.";
+"Enable notifications, please" = "Ative as notificações, por favor";
+"Set the alarm" = "Defina o alarme";
+"Sound" = "Som";
+"Cancel" = "Cancelar";
+"Save" = "Save";
+"enable" = "permitir";
